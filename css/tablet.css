@@ -1,0 +1,6 @@
+.section-card {
+    width: 50%;
+}
+.card-container:hover {
+    transform: scale(1.05);
+} 
